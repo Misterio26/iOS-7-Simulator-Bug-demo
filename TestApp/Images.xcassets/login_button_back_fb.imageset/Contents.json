@@ -1,0 +1,65 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 5,
+          "height" : 38
+        },
+        "capInsets" : {
+          "bottom" : 7,
+          "top" : 7,
+          "right" : 7,
+          "left" : 0
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "login_button_back_fb_x1.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 11,
+          "height" : 76
+        },
+        "capInsets" : {
+          "bottom" : 14,
+          "top" : 14,
+          "right" : 14,
+          "left" : 0
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "login_button_back_fb_x2.png",
+      "scale" : "2x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 19,
+          "height" : 118
+        },
+        "capInsets" : {
+          "bottom" : 20,
+          "top" : 18,
+          "right" : 20,
+          "left" : 0
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "login_button_back_fb_x3.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

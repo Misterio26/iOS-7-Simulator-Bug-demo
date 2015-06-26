@@ -1,0 +1,65 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 11,
+          "height" : 50
+        },
+        "capInsets" : {
+          "bottom" : 1,
+          "top" : 1,
+          "right" : 0,
+          "left" : 0
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "login_button_back_ok_x1.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 24,
+          "height" : 102
+        },
+        "capInsets" : {
+          "bottom" : 1,
+          "top" : 1,
+          "right" : 1,
+          "left" : 1
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "login_button_back_ok_x2.png",
+      "scale" : "2x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 39,
+          "height" : 154
+        },
+        "capInsets" : {
+          "bottom" : 1,
+          "top" : 1,
+          "right" : 0,
+          "left" : 0
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "login_button_back_ok_x3.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
