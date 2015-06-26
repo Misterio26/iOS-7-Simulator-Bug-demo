@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>97C9627A-172F-4263-A3C6-E70FB7800BF8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6A92DA42589ADC07C73EF74ECFDE937F73CCC17A</key>
+		<string>https://github.com/Misterio26/iOS-7-Simulator-Bug-demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6A92DA42589ADC07C73EF74ECFDE937F73CCC17A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Misterio26/iOS-7-Simulator-Bug-demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6A92DA42589ADC07C73EF74ECFDE937F73CCC17A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6A92DA42589ADC07C73EF74ECFDE937F73CCC17A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-7-Simulator-Bug-demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
