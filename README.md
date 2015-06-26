@@ -21,3 +21,10 @@ Can someone help me to know:
 Is it simulator bug or it happens on real device too? (I don't have ios 7 device, just 8, and apple don't allow to downgrade ios)
 
 Or maybe it can be fixed?
+
+Correct screen:
+![alt tag](https://github.com/Misterio26/iOS-7-Simulator-Bug-demo/blob/master/ios8%20screen.png)
+
+Bug screen:
+Correct screen:
+![alt tag](https://github.com/Misterio26/iOS-7-Simulator-Bug-demo/blob/master/ios7%20screen.png)
